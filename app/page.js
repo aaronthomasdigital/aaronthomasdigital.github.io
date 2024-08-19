@@ -11,7 +11,7 @@ export default function Home() {
         width={399}
         priority
       />
-      <h1 className="text-black text-2xl font-mono font-black mt-8">
+      <h1 className="text-black text-md md:text-2xl font-mono font-black mt-8">
         New Site Coming Soon.
       </h1>
     </main>
